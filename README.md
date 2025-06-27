@@ -1,4 +1,4 @@
-# PandasQuest-Leetcode  🐼
+# PandasQuest-Leetcode 
 
 > Welcome to **PandaQuest-Leetcode**, a curated collection of Python notebook solutions to the [LeetCode 30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) challenge. This repository is built to enhance your **data wrangling**, **analysis**, and **exploratory programming** skills using **Pandas**, one of the most powerful libraries in Python for data manipulation.
 
@@ -6,15 +6,14 @@
 
 ## 🗂️ Repository Structure
 
-> Each notebook corresponds to a specific day of the challenge, clearly numbered and titled for easy navigation:
+> Each notebook corresponds to a specific day of the challenge, clearly numbered and titled for easy navigation
+```
 Pandas/
 ├── 01_select_data_types.ipynb # Day 1 – Select data types
-├── 02_filter_dataframe_rows.ipynb # Day 2 – Filter DataFrame rows
+├── 02_second_problem.ipynb # Day 2 – Filter DataFrame rows
 ├── ...
 
-> Additionally, all notebooks are verified on **LeetCode’s in-browser editor** for correctness.
-
----
+```
 
 ## 📌 Problem-Solving Approach
 
