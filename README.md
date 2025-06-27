@@ -19,10 +19,10 @@ Pandas/
 
 > For each Pandas challenge:
 
-- 🧐 The task is carefully reviewed to understand the transformation or filter required.
+- ✅  The task is carefully reviewed to understand the transformation or filter required.
 - 🧠 Code is written with readability and performance in mind.
 - 🪄 Solutions use idiomatic Pandas, leveraging chaining, vectorization, and best practices.
-- ✅ Each notebook includes comments and sample test cases when applicable.
+- 🧪 Each notebook includes comments and sample test cases when applicable.
 
 ---
 
