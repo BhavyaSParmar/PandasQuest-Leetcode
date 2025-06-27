@@ -9,8 +9,8 @@
 > Each notebook corresponds to a specific day of the challenge, clearly numbered and titled for easy navigation
 ```
 Pandas/
-├── 01_select_data_types.ipynb # Day 1 – Select data types
-├── 02_second_problem.ipynb # Day 2 – Filter DataFrame rows
+├── 01_select_data_types.ipynb # Select data types
+├── 02_second_problem.ipynb # (Next problem)
 ├── ...
 
 ```
