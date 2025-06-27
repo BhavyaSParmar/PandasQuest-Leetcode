@@ -9,8 +9,8 @@
 > Each notebook corresponds to a specific day of the challenge, clearly numbered and titled for easy navigation
 ```
 Pandas/
-├── 01_select_data_types.ipynb # Select data types
-├── 02_second_problem.ipynb # (Next problem)
+├── 01_select_data_types.ipynb      # Select data types
+├── 02_second_problem.ipynb         # (Next problem)
 ├── ...
 
 ```
