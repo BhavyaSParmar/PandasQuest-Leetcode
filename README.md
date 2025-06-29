@@ -9,7 +9,7 @@
 > Each notebook corresponds to a specific day of the challenge, clearly numbered and titled for easy navigation
 ```
 Pandas/
-├── 01_big_countries.py      # Select data types
+├── 01_big_countries.py          # Select data types
 ├── 02_second_problem.py         # (Next problem)
 ├── ...
 
