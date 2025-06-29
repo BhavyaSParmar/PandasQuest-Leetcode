@@ -1,6 +1,6 @@
 # PandasQuest-Leetcode 
 
-> Welcome to **PandaQuest-Leetcode**, a curated collection of Python notebook solutions to the [LeetCode 30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) challenge. This repository is built to enhance your **data wrangling**, **analysis**, and **exploratory programming** skills using **Pandas**, one of the most powerful libraries in Python for data manipulation.
+> Welcome to **PandaQuest-Leetcode**, a curated collection of Python notebook solutions to the [LeetCode 30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) challenge. This repository is built to enhance your **data wrangling**, **analysis**, and **exploratory programming** skills using **Pandas**, one of the most powerful libraries in Python for data manipulation. 
 
 ---
 
