@@ -4,7 +4,7 @@ class Solution:
             return s
 
         rows = [''] * numRows
-        current_row = 0
+        current_row = 0 
         going_down = False
 
         for c in s:
